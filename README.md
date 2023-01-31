@@ -1,3 +1,11 @@
+YOUTUBE
+
+https://www.youtube.com/watch?v=t_YSrxj0wGY&list=PLTg7E2ObeSjYfoEUh9YOgqXMWT51R1VVN&index=1
+
+
+
+
+
 # Webinar Youtube
 CRUD con Angular y Firebase (Firestore) paso a paso
 
